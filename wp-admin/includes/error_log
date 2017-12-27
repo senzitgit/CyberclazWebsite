@@ -1,0 +1,2 @@
+[19-Aug-2016 11:30:01 Etc/GMT] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/senzixwd/public_html/CYBERCLAZ/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
+[31-Dec-2016 18:37:36 Etc/GMT] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/senzixwd/public_html/CYBERCLAZ/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17

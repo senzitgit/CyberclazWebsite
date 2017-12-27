@@ -1,0 +1,4 @@
+[13-Dec-2016 10:15:18 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/senzixwd/public_html/CYBERCLAZ/wp-includes/rss-functions.php on line 8
+[09-Mar-2017 05:02:52 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/senzixwd/public_html/CYBERCLAZ/wp-includes/rss-functions.php on line 8
+[22-Mar-2017 06:12:34 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/senzixwd/public_html/CYBERCLAZ/wp-includes/registration-functions.php on line 7
+[22-Oct-2017 04:08:07 Etc/GMT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/senzix15/public_html/CYBERCLAZ/wp-includes/registration-functions.php on line 7
